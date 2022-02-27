@@ -1,6 +1,5 @@
-# Freedom
+# Naija Chat Community
 
-Freedom is a chatting app with light and dark mode
+Naija Chat Community is a Group Chating app w
 
-## App Images
 
